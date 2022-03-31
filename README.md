@@ -20,3 +20,9 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 ## Mengatur Clearfix Element
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
 Tambahkan element div lainnya seteleah div3 seperti berikut.
+![img](img/img4.png)
+Kemudian atur property clear pada CSS seperti berikut, kemudian simpan dan lihat hasilnya pada web browser.
+![img](img/img5.png)
+
+## Membuat Layout Sederhana
+Kita akan membuat layout web sederhana seperti gambar berikut.
