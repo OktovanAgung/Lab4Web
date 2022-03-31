@@ -29,3 +29,4 @@ Kita akan membuat layout web sederhana seperti gambar berikut.
 ![img](img/layout.png)
 
 Buat **folder baru** dengan nama **lab4_layout**, kemudian buatlah file baru didalamnya dengan nama **home.html**, dan file css dengan nama **style.css**.
+![img](img/img6.png)
