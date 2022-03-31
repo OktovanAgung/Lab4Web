@@ -33,3 +33,7 @@ Buat **folder baru** dengan nama **lab4_layout**, kemudian buatlah file baru did
 
 Kemudian buat kerangka layout dengan semantics element seperti berikut.
 ![img](img/kerangkalayout.png)
+
+Kemudian tulis kode berikut, kemudian liat hasilnya.
+![img](img/img7.png)
+
