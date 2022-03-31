@@ -9,3 +9,6 @@
 Persiapan membuat dokumen HTML dengan nama file **lab4_box.html** seperti berikut.
 ![img](img/img1.png)
 
+## Membuat Box Element
+Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+![img](img/img2.png)
