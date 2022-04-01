@@ -80,12 +80,12 @@ nav a:hover {
 }
 
 /* widget */ 
-widget-box { 
+.widget-box { 
     border:1px solid #eee; 
-    margin-bottom:20px; 
+    margin-bottom: 20px;
 } 
 .widget-box .title { 
-    padding:10px 16px; 
+    padding: 10px;px 16px; 
     background-color:#428bca; 
     color:#fff; 
 } 
@@ -106,5 +106,4 @@ widget-box {
 } 
 .widget-box p { 
     padding:15px; 
-    line-height:25px; 
-}
+    line-height:25px; }
