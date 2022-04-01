@@ -38,4 +38,7 @@ Kemudian tulis kode berikut dan liat hasilnya.
 ![img](img/img7.png)
 
 Kemudian tambah kode CSS untuk membuat layout, dan hasilnya akan sepertiberikut.
-![img]()
+![img](img/img8.png)
+
+## Membuat Navigasi
+Selanjutnya untuk mengatur navigasi dengan kode berikut, kemudian lihat hasilnya.
