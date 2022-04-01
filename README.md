@@ -46,3 +46,5 @@ Selanjutnya untuk mengatur navigasi dengan kode berikut, kemudian lihat hasilnya
 
 ## Membuat Hero Panel
 Selanjutnya membuat heropanel. Tambahkankode HTML dan CSS seperti berikut
+![img](img/img10.png)
+kemudian hasilnya akan seperti berikut:
