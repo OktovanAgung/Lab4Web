@@ -42,3 +42,7 @@ Kemudian tambah kode CSS untuk membuat layout, dan hasilnya akan sepertiberikut.
 
 ## Membuat Navigasi
 Selanjutnya untuk mengatur navigasi dengan kode berikut, kemudian lihat hasilnya.
+![img](img/img9.png)
+
+## Membuat Hero Panel
+Selanjutnya membuat heropanel. Tambahkankode HTML dan CSS seperti berikut
