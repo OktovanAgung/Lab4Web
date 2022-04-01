@@ -50,3 +50,6 @@ Selanjutnya membuat heropanel. Tambahkankode HTML dan CSS seperti berikut
 
 kemudian hasilnya akan seperti berikut:
 ![img](img/img11.png)
+
+## Mengatur Layout Main & Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
