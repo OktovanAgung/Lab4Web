@@ -53,3 +53,7 @@ kemudian hasilnya akan seperti berikut:
 
 ## Mengatur Layout Main & Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+![img](img/img12.png)
+
+## Membuat Sidebar Widget
+kemudian tambahkan elemen lain dalam sidebar, dan juga tambahkan CSS
