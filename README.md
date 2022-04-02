@@ -93,3 +93,8 @@ Dan hasilnya akan seperti berikut :
 
 1. Disini saya akan menambahkan About yang berisi deskripsi, portofolio, dll. 
 Dengan menambahkan HTLM dan CSS seperti berikut.
+![img](img/img20.png)
+
+Dan hasilnya akan sepertiberikut :
+![img](img/img21.png)
+
