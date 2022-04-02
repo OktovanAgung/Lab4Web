@@ -66,3 +66,5 @@ selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
 ![img](img/img15.png)
 
 ## Menambahkan Elemen Lainnya Pada Main Content
+![img](img/img16.png)
+
