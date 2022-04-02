@@ -98,3 +98,9 @@ Dan hasilnya akan sepertiberikut :
 ![img](img/img21.png)
 
 2. Saya akan tambahkan layout  untuk contact yang berisi nama, email, massage, dll, dengan menambahkan HTML dan CSS seperti berikut.
+![img](img/img22.png)
+![img](img/img23.png)
+
+Dan hasilnya akan seperti ini :
+![img](img/img24.png)
+
