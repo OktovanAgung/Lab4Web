@@ -85,9 +85,9 @@ Dan hasilnya akan seperti berikut :
 ## Pertanyaan & Tugas 
 
 1. Tambahkan layout untuk membuat Abut
-=> Buat single layout yang berisi deskripsi,portofolio, dll.
+- Buat single layout yang berisi deskripsi,portofolio, dll.
 2. Tambahkan layout untuk contact
-=> Yang berisi form isian : nama, email, message, dll.
+- Yang berisi form isian : nama, email, message, dll.
 
 ## Jawaban
 
