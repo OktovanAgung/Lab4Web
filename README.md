@@ -59,3 +59,7 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 kemudian tambahkan elemen lain dalam sidebar, dan juga tambahkan CSS
 ![img](img/img13.png)
 Maka hasilnya akan seperti berikut
+![img](img/img14.png)
+
+## Mengatur Footer
+selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
