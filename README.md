@@ -63,3 +63,6 @@ Maka hasilnya akan seperti berikut
 
 ## Mengatur Footer
 selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
+![img](img/img15.png)
+
+## Menambahkan Elemen Lainnya Pada Main Content
