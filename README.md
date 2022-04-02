@@ -58,7 +58,8 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ## Membuat Sidebar Widget
 kemudian tambahkan elemen lain dalam sidebar, dan juga tambahkan CSS
 ![img](img/img13.png)
-Maka hasilnya akan seperti berikut
+
+Maka hasilnya akan seperti berikut:
 ![img](img/img14.png)
 
 ## Mengatur Footer
@@ -68,3 +69,8 @@ selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
 ## Menambahkan Elemen Lainnya Pada Main Content
 ![img](img/img16.png)
 
+Maka hasilnya akan sepertiberikut:
+![img](img/img17.png)
+
+## Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
