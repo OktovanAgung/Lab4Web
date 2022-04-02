@@ -59,7 +59,7 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 kemudian tambahkan elemen lain dalam sidebar, dan juga tambahkan CSS
 ![img](img/img13.png)
 
-Maka hasilnya akan seperti berikut:
+Maka hasilnya akan seperti berikut :
 ![img](img/img14.png)
 
 ## Mengatur Footer
@@ -69,12 +69,25 @@ selanjutnya mengatur footer dengan menambahkan CSS untuk footer.
 ## Menambahkan Elemen Lainnya Pada Main Content
 ![img](img/img16.png)
 
-Maka hasilnya akan sepertiberikut:
+Maka hasilnya akan sepertiberikut :
 ![img](img/img17.png)
 
 ## Menambahkan Content Artikel
 Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ![img](img/img18.png)
 
-Dan hasilnya akan seperti berikut:
+Dan hasilnya akan seperti berikut :
 ![img](img/img19.png)
+
+----
+----
+
+## Pertanyaan & Tugas 
+
+1. Tambahkan layout untuk membuat Abut
+=> Buat single layout yang berisi deskripsi,portofolio, dll.
+2. Tambahkan layout untuk contact
+=> Yang berisi form isian : nama, email, message, dll.
+
+## Jawaban
+
