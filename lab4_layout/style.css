@@ -196,7 +196,7 @@ border-top:1px solid #eeeeee;
 }
 
 /* Layout Contact no 2 */
-.kontak-body {
+.contact-body {
     margin: 0;
     font-family: -apple-system, Arial, sans-serif;
     font-size: 1rem;
@@ -209,11 +209,11 @@ border-top:1px solid #eeeeee;
     border-radius: 0.25rem;
     max-width: 100%;
 }
-.kontak-form-group {
+.contact-form-group {
     margin-bottom: 1rem;
 }
 
-.kontak-input-group {
+.contact-input-group {
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -224,7 +224,7 @@ border-top:1px solid #eeeeee;
     width: 100%;
 }
 
-.kontak-form-control {
+.contact-form-control {
     display: block;
     width: 100%;
     height: calc(1.5em + 0.75rem + 2px);
@@ -241,22 +241,22 @@ border-top:1px solid #eeeeee;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.kontak-form-control:focus {
+.contact-form-control:focus {
     border: 1px solid #313131;
 }
 
 
-textarea.kontak-form-control {
+textarea.contact-form-control {
     height: auto;
 }
 
-label.kontak-label {
+label.contact-label {
     display: inline-block;
     margin-bottom: 0.5rem;
 }
 
 
-.kontak-btn {
+.contact-btn {
     display: inline-block;
     font-weight: 400;
     color: #212529;
@@ -276,15 +276,15 @@ label.kontak-label {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.kontak-btn-primary {
+.contact-btn-primary {
     color: #fff;
     background-color: #007bff;
     border-color: #007bff;
 }
 
-.kontak-btn-lg, 
-.kontak-btn-group-lg>
-.kontak-btn {
+.contact-btn-lg, 
+.contact-btn-group-lg>
+.contact-btn {
     padding: 0.5rem 1rem;
     font-size: 1.25rem;
     line-height: 1.5;
