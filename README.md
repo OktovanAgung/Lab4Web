@@ -84,10 +84,12 @@ Dan hasilnya akan seperti berikut :
 
 ## Pertanyaan & Tugas 
 
-1. Tambahkan layout untuk membuat Abut
+1. Tambahkan layout Untuk Membuat Abut
 - Buat single layout yang berisi deskripsi,portofolio, dll.
 2. Tambahkan layout untuk contact
 - Yang berisi form isian : nama, email, message, dll.
 
 ## Jawaban
 
+1. Disini saya akan menambahkan About yang berisi deskripsi, portofolio, dll. 
+Dengan menambahkan HTLM dan CSS seperti berikut.
