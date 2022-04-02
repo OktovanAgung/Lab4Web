@@ -184,7 +184,6 @@ footer {
     border: 1px solid #313131;
 }
 
-
 textarea.kontak-form-control {
     height: auto;
 }
@@ -193,7 +192,6 @@ label.kontak-label {
     display: inline-block;
     margin-bottom: 0.5rem;
 }
-
 
 .kontak-btn {
     display: inline-block;
@@ -303,4 +301,11 @@ border-top:1px solid #eeeeee;
 }
 .entry .right-img { 
 	float: right;
+}
+
+.about {
+    border-radius: 50px;
+}
+.avatar {
+    border-radius: 20%;
 }
