@@ -74,3 +74,7 @@ Maka hasilnya akan sepertiberikut:
 
 ## Menambahkan Content Artikel
 Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+![img](img/img18.png)
+
+Dan hasilnya akan seperti berikut:
+![img](img/img19.png)
